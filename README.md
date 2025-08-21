@@ -1,3 +1,2 @@
 # mlops_zoomcamp_intro
-
-This is an example
+This is an example about the commit
